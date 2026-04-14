@@ -1,3 +1,0 @@
-ale glupi plik chyba trzeba go zignorowac
-ciekawe czy to zauwazy
-no ciekawe co git na to
